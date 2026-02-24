@@ -1,6 +1,7 @@
 import React, { PureComponent } from "react";
 import PlayScreen from "./gui/PlayScreen";
 import querystring from "query-string";
+import { Analytics } from "@vercel/analytics/react";
 
 export default class App extends PureComponent {
 	render() {
