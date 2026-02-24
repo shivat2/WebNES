@@ -25,14 +25,14 @@ export default class Header extends Component {
 				<h2 className={styles.title}>
 					<div className={styles.link}>
 						<a
-							href="https://github.com/afska/nestation#nestation"
+							href="https://github.com/shivat2/WebNES"
 							target="_blank"
 							rel="noopener noreferrer"
 							tabIndex="-1"
 							className={styles.hyperlink}
 						>
 							<i className={classNames(styles.titleLogo, "nes-logo")} />
-							<span className={styles.titleText}>NEStation</span>
+							<span className={styles.titleText}>WebNES</span>
 						</a>
 					</div>
 				</h2>
