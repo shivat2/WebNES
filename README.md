@@ -1,6 +1,6 @@
 # WebNES
 
-[WebNES](https://afska.github.io/nestation) is a web NES emulator, which supports two-player Net Play via [WebRTC](https://webrtc.org)'s p2p data channels.
+[WebNES](https://nes-shivat.vercel.app) is a web NES emulator, which supports two-player Net Play via [WebRTC](https://webrtc.org)'s p2p data channels.
 
 # Screenshots
 
